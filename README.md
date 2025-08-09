@@ -6,7 +6,7 @@
 <h1 align="center">¡Hola, soy <a href="https://github.com/Calabaza00">Calabaza00</a>! 👾</h1>
 
 <p align="center">
-  <em>Estudiante de Ingeniería Informática — aprendiendo C++, Python y Java.</em>
+  <em>Estudiante de Ingeniería Informática — Perú.</em>
 </p>
 
 ---
@@ -38,9 +38,8 @@
 ---
 
 ## 🚧 Proyectos
-_Aún no hay trabajos destacados. Próximamente subiré mini apps, ejercicios de la uni y proyectos de práctica._
+_Aún no hay trabajos destacados. Próximamente..._
 
-<!-- Consejo: desde tu perfil de GitHub, botón “Customize your pins” para fijar repos destacados. -->
 
 ---
 
