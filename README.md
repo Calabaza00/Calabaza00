@@ -1,6 +1,6 @@
 <!-- Banner local -->
 <p align="center">
-  <img src="./assets/banner.gif" alt="Cyberpunk Banner" width="960">
+  <img src="./assets/gifs/banner.gif" alt="Cyberpunk Banner" width="960">
 </p>
 
 <h1 align="center">¡Hola, soy <a href="https://github.com/Calabaza00">Calabaza00</a>! 👾</h1>
@@ -45,8 +45,7 @@ _Aún no hay trabajos destacados. Próximamente..._
 
 ## 🖼️ Estilo
 <p align="center">
-  <img src="./assets/yofukashi.gif" alt="Yofukashi no Uta" height="150">
-  <img src="./assets/detroit.gif" alt="Detroit: Become Human" height="150">
+  <img src="./assets/gifs/yofukashi.gif" alt="Yofukashi no Uta" height="150">
 </p>
 
 ---
